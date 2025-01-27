@@ -1,6 +1,6 @@
-# myapp
+# Jogo da Velha
 
-A new Flutter project.
+Projeto criado para a realização da atividade 04 do módulo 11 do Talento Tech.
 
 ## Getting Started
 
